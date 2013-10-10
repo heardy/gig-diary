@@ -1,0 +1,48 @@
+[
+    {
+        "band": "The Living End",
+        "venue": "The Hi-Fi Sydney",
+        "date": "2012-11-26T13:00:00.000Z"
+    },
+    {
+        "band": "Refused",
+        "venue": "Enmore Theatre",
+        "date": "2012-11-12T13:00:00.000Z"
+    },
+    {
+        "band": "Pixies",
+        "venue": "Big Top",
+        "date": "2007-03-29T14:00:00.000Z"
+    },
+    {
+        "band": "Pixies",
+        "venue": "Hordern Pavilion",
+        "date": "03/2010",
+        "undefined": "??"
+    },
+    {
+        "band": "At the Drive-In",
+        "venue": "Splendour in the Grass",
+        "date": "2012-07-26T14:00:00.000Z"
+    },
+    {
+        "band": "Rage Against the Machine",
+        "venue": "Sydney Entertainment Centre",
+        "date": "2008-01-21T13:00:00.000Z"
+    },
+    {
+        "band": "After the Fall",
+        "venue": "Bald Faced Stag",
+        "date": "2012-11-29T13:00:00.000Z"
+    },
+    {
+        "band": "Jonah Matranga",
+        "venue": "Sandringham Hotel",
+        "date": "2012-09-05T14:00:00.000Z"
+    },
+    {
+        "band": "Me First and the Gimme Gimmes",
+        "venue": "Manning Bar",
+        "date": "2013-10-01T14:00:00.000Z"
+    }
+]
